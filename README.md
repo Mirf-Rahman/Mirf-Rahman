@@ -14,8 +14,10 @@ Welcome to my GitHub profile.
 ---
 
 ## 📊 My GitHub Stats
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,kotlin,docker,mysql,postgres,linux,git&perline=12" alt="Tech stack" />
 
-![](https://github-readme-stats.vercel.app/api?username=Mirf-Rahman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
+
+![](https://github-readme-stats.vercel.app/api?username=Mirf-Rahman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mirf-Rahman&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirf-Rahman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5)
 
